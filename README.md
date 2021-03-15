@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Carens25
+- 👋 Hi, I’m Carens
 - 👀 I’m interested in Web Design
 - 🌱 I’m currently learning Figma and Adobe XD
 - 💞️ I’m looking to collaborate on Web Developer or Web Designer
